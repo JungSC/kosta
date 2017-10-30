@@ -6,9 +6,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	
 	<script>
 		document.write("안녕하세요");
+		document.write("");
 	</script>
 	Html내용
 	<br>
